@@ -5,3 +5,4 @@ Git tracks changes of files.test for ABCdeeeeYYYY
 Creating a new branch is quick AND simple.
 fast forward off
 bug branch
+git stash pop
